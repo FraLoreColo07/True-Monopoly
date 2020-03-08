@@ -1,0 +1,15 @@
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\MainWindow.g.cs
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\App.g.cs
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly_MarkupCompile.cache
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly_MarkupCompile.lref
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\MainWindow.baml
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.g.resources
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Francesco\Documents\True-Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
