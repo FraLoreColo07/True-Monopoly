@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMElementi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MElementi>
+    <Cartellino>Andate fino al « Via! »</Cartellino>
+    <Posizione>Via</Posizione>
+    <Denaro>0</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Andate alla Stazione NORD; se passate dal « Via! » ritirate le 20.000 lire</Cartellino>
+    <Posizione>Stazione NORD</Posizione>
+    <Denaro>20000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Andate fino al Parco della Vittoria</Cartellino>
+    <Posizione>Parco della Vittoria</Posizione>
+    <Denaro>0</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Avete delle tasse arretrate pagate 20.000 lire</Cartellino>
+    <Posizione></Posizione>
+    <Denaro>20000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Andate sino a Via accademia: se passate dal « Via! » ritirate le 20.000 lire</Cartellino>
+    <Posizione>Via accademia</Posizione>
+    <Denaro>20000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Andate sino al Largo Colombo: se passate dal « Via! » ritirate le 20.000 lire</Cartellino>
+    <Posizione>Largo Colombo</Posizione>
+    <Denaro>20000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Avete tutti i vostri stabili da riparare: pagate 2.500</Cartellino>
+    <Posizione></Posizione>
+    <Denaro>2500</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Avete vinto un terno al lotto: ritirate 10.000 lire</Cartellino>
+    <Posizione></Posizione>
+    <Denaro>10000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Dovete pagare per contributo di miglioria stradale pagate 10.000 lire</Cartellino>
+    <Posizione></Posizione>
+    <Denaro>10000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Pagate il conto del Dottore: 5.000 lire</Cartellino>
+    <Posizione></Posizione>
+    <Denaro>5000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>La Banca Vi paga gli interessi del vostro Conto Corrente: ritirate 5.000 lire</Cartellino>
+    <Posizione></Posizione>
+    <Denaro>5000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Matrimonio in famiglia: spese impreviste 15.000 lire</Cartellino>
+    <Posizione> </Posizione>
+    <Denaro>15000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Ritornate al Vicolo Corto</Cartellino>
+    <Posizione>Vicolo Corto</Posizione>
+    <Denaro>0</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Scade il Vostro premio di assicurazione: pagate 5.000 lire</Cartellino>
+    <Posizione></Posizione>
+    <Denaro>5000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Siete creditore verso Banca di 20.000 lire: ritiratele</Cartellino>
+    <Posizione></Posizione>
+    <Denaro>20000</Denaro>
+  </MElementi>
+  <MElementi>
+    <Cartellino>Salutate un giocatore o perdete la partita</Cartellino>
+    <Posizione></Posizione>
+    <Denaro></Denaro>
+  </MElementi>
+</ArrayOfMElementi>
