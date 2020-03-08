@@ -14,9 +14,6 @@ namespace Monopoly
         public void CreaListaImprevisti(string fileName)
         {
             FileXML.deserializza(out Imprevisti, "Imprevisti.xml");
-            //prova
-            FileXML.deserializza(out Imprevisti, "Imprevisti.xml");
-            //include
         }
 
     }
