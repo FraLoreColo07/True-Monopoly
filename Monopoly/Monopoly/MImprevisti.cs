@@ -16,6 +16,7 @@ namespace Monopoly
             FileXML.deserializza(out Imprevisti, "Imprevisti.xml");
             //prova
             FileXML.deserializza(out Imprevisti, "Imprevisti.xml");
+            //include
         }
 
     }
